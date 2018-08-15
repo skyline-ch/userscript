@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         Tradingview extractor
-// @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  Script qui permet d'extraire des donnée de trading
-// @author       skyline-ch
-// @match        https://fr.tradingview.com/*
-// @grant 		all
-// @require 	https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @name         	Tradingview extractor
+// @namespace    	http://tampermonkey.net/
+// @version      	0.3
+// @description  	Script qui permet d'extraire des donnée de trading
+// @author       	skyline-ch
+// @match        	https://fr.tradingview.com/*
+// @grant 			all
+// @require 		https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @updateURL    	https://github.com/skyline-ch/userscript/raw/master/Tradingview%20extractor.user.js
 // @downloadURL    	https://github.com/skyline-ch/userscript/raw/master/Tradingview%20extractor.user.js
 // ==/UserScript==
 
