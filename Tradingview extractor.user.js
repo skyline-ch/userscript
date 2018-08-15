@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tradingview extractor
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Script qui permet d'extraire des donnée de trading
 // @author       skyline-ch
 // @match        https://fr.tradingview.com/*
